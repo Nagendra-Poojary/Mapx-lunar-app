@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+numpy
+scipy
+opencv-python-headless
+pillow
+ultralytics
+torch
+torchvision
+transformers
+google-genai
+python-dotenv
